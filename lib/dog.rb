@@ -7,5 +7,5 @@ class Dog
     this_dogs_name 
   end 
 end 
-this_dogs_name=Dog.new 
+name=Dog.new 
 this_dogs_name.name ="Lassie"
