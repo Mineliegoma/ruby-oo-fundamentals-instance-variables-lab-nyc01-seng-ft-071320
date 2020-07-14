@@ -8,4 +8,3 @@ class Dog
   end 
 end 
 name=Dog.new 
-this_dogs_name.name ="Lassie"
